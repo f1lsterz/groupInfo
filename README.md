@@ -8,3 +8,6 @@ A project for KPI node.js course
 
 ![image](https://github.com/f1lsterz/groupInfo/assets/135802723/56d75b81-6a6b-41c7-9b19-b3dc977d070d)
 
+![image](https://github.com/f1lsterz/groupInfo/assets/135802723/9dba809b-6022-4f03-ac7d-6688aef76a97)
+
+
