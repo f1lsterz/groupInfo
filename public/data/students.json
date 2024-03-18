@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Volodymyr",
+    "age": 19,
+    "gender": "male",
+    "description": "りょういき てんかい： む りょ く しょ",
+    "github": "https://github.com/f1lsterz",
+    "telegram": "https://t.me/vovaaaaa1811",
+    "photo": "/images/Volodymyr.jpg"
+  },
+  {
+    "name": "Vadym",
+    "age": 18,
+    "gender": "male",
+    "description": "A creative and analytically oriented person who has deep knowledge in the field of programming and computer science.",
+    "github": "https://github.com/VadymKondratiuk",
+    "telegram": "https://t.me/kvantikaa",
+    "photo": "/images/Vadym.jpg"
+  },
+  {
+    "name": "Senya",
+    "age": 19,
+    "gender": "male",
+    "description": "'more of a cat person' and the biggest nintendo fan in kpi (i only played ocarina of time of all the zelda games)",
+    "github": "https://github.com/guywhodiesfirst",
+    "telegram": "https://t.me/guywhodiesfirst",
+    "photo": "/images/Senya.jpg"
+  }
+]

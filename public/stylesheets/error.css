@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.page {
+  display: flex;
+  width: 100%;
+  min-height: 100vh;
+  background-color: #568ce3;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.page h1 {
+  color: #fff;
+  font-size: 60px;
+}
+
+img {
+  border-radius: 10px;
+  border: 0;
+  margin-top: 50px;
+  width: 400px;
+}

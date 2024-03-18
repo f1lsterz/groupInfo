@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Student Information</title>
+    <link rel="stylesheet" href="/stylesheets/student.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Encode+Sans+Expanded:wght@400;700;900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <a href="/">
+      <img class="home" src="/images/home.png" alt="" />
+    </a>
+    <div class="row">
+      <img class="img <%= student.name %>" src="<%= student.photo %>" alt="" />
+      <div class="column second">
+        <p><span class="attribute-name">Name:</span> <%= student.name %></p>
+        <p><span class="attribute-name">Age:</span> <%= student.age %></p>
+        <p><span class="attribute-name">Gender:</span> <%= student.gender %></p>
+        <p>
+          <span class="attribute-name">Description:</span> <%=
+          student.description %>
+        </p>
+        <p>
+          <span class="attribute-name">Github:</span>
+          <a href="<%= student.github %>"><%= student.github %></a>
+        </p>
+        <p>
+          <span class="attribute-name">Telegram:</span>
+          <a href="<%= student.telegram %>"><%= student.telegram %></a>
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
